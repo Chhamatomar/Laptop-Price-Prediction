@@ -135,7 +135,7 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-Chhama Tomar(Machine Engineer)
+Chhama Tomar(Machine learning Engineer)
 
 [Github Link](https://github.com/)
 
