@@ -77,7 +77,7 @@ Performed feature engineering to extract meaningful features such as:
 - GPU Brand
 - OS Type
 
-- ## 📈 Model Performance
+## 📈 Model Performance
 
 ## Algorithm Used:
 ### Linear Regression
@@ -140,3 +140,10 @@ Chhama Tomar(Machine learning Engineer)
 [Github Link](https://github.com/)
 
 [LinkedIn Link](https://www.linkedin.com/feed/)
+
+## Disclaimer
+
+This project provides an estimated laptop price range based on selected features.  
+The prediction may not be perfectly accurate because some important factors like exact model, market trends, and detailed hardware specifications are not included in the dataset.
+
+The main goal of this project is to give users a rough idea of the expected laptop price before purchasing.
