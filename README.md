@@ -1,6 +1,6 @@
 # 💻 Laptop Price Prediction
 
-A Machine Learning web app that predicts laptop prices based on specifications like RAM, processor, brand, Type, storage, GPU, SSD, HDD and display features.
+A Machine Learning web app that predicts laptop prices based on specifications like RAM, processor, brand, Type, storage, GPU, SSD and display features.
 
 ## 📸 Project Preview
 
