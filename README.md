@@ -130,7 +130,6 @@ streamlit run app.py
 ## 🚀 Future Improvements
 
 - Improve UI/UX
-- Add deep learning model
 - Add price trend analysis
 
 ## 👩‍💻 Author
